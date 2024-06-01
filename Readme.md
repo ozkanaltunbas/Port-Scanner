@@ -18,7 +18,7 @@ git clone https://github.com/ozkanaltunbas/Port-Scanner.git
 
  ## Example Usage:
 
-```bash
+
 $ python port_scanner.py
 Enter target IP: 192.168.1.1
 Enter port range (exp. 1-1000): 1-100
