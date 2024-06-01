@@ -12,7 +12,7 @@ Python 3.x
 Usage:
 
 1-git clone https://github.com/ozkanaltunbas/Port-Scanner.git
-2-avigate to the directory containing the script.
+2-Navigate to the directory containing the script.
 3-Run the script using Python.
 
 Example Usage:
