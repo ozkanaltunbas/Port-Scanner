@@ -1,22 +1,24 @@
+ # Port Scanner 
+ 
 This is a simple port scanner written in Python. It uses threading to scan multiple ports concurrently, making it efficient for scanning a range of ports on a target IP address.
 
-Features: 
-Scans a range of ports on a target IP address.
-Uses threading to perform the scan concurrently, improving performance.
-Handles common errors gracefully (e.g., invalid IP address, connection errors).
+## Features: 
+- Scans a range of ports on a target IP address.
+- Uses threading to perform the scan concurrently, improving performance.
+- Handles common errors gracefully (e.g., invalid IP address, connection errors).
 
-Requirements:
+# Requirements:
 
-Python 3.x
+- Python 3.x
 
-Usage:
+ ## Usage:
 
-1-git clone https://github.com/ozkanaltunbas/Port-Scanner.git
-2-Navigate to the directory containing the script.
-3-Run the script using Python.
+```bash
+git clone https://github.com/ozkanaltunbas/Port-Scanner.git
 
-Example Usage:
+ ## Example Usage:
 
+```bash
 $ python port_scanner.py
 Enter target IP: 192.168.1.1
 Enter port range (exp. 1-1000): 1-100
